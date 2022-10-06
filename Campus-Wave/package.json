@@ -1,0 +1,35 @@
+{
+  "name": "Campus-Wave",
+  "displayName": "Campus Wave Dark",
+  "description": "Super cool campus wave theme for beginners and experts",
+  "version": "0.0.1",
+  "publisher": "CampusWave",
+  "repository":{
+    "type":"git",
+    "url":"https://github.com/festusmaithya/campuswavetheme.git"
+  },
+  "keywords":[
+    "theme",
+    "campus",
+    "campuswave",
+    "dark",
+    "darkwave",
+    "campuswavedark",
+    "wave theme"
+  ],
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Campus Wave",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Campus Wave-color-theme.json"
+      }
+    ]
+  }
+}
