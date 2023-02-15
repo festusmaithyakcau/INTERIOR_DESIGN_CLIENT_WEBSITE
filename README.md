@@ -1,2 +1,2 @@
 # campuswavetheme
-This is my first package of a visual studio code theme 
+This is the first package release  of a campuswave visual studio code theme.
