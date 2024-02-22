@@ -10,7 +10,7 @@ This is the first package release  of a campuswave visual studio code theme.
 
 ## Acknowledgements :pray:
 
-All work contained in this project was completed as part of the curriculum for the Bachelors Degree in Software Development at KCA UNIVERSITY (####### Unit).For more information, visit
+All work contained in this project was completed as part of the curriculum for the Bachelors Degree in Software Development at KCA UNIVERSITY (Fundamentals of Web Design Unit).For more information, visit
 [this link](https://www.kcau.ac.ke/).
 
 <p align="center">
