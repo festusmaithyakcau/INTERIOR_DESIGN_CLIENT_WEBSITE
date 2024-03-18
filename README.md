@@ -6,7 +6,7 @@
 
 
 
-## Authors :black_nib:
+## Authors
 
 * Festus Maithya [festusmaithyakcau](https://github.com/festusmaithyakcau)
 * Alpha Jim  [Alpha Jim Obiero](https://github.com/AlphaJim)
