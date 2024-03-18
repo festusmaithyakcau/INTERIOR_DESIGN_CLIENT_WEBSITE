@@ -12,7 +12,7 @@
 
 
 
-## Authors :black_nib:
+## Authors :Alpha Jim ,Festus Maithya
 
 * Festus Maithya [festusmaithyakcau](https://github.com/festusmaithyakcau)
 * Alpha Jim

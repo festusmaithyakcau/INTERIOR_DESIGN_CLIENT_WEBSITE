@@ -27,6 +27,7 @@
   --danger: #dc3545;
   --light: #F3F6FF;
   --dark: #181818;
+  --peach:#EEA47F;
   --breakpoint-xs: 0;
   --breakpoint-sm: 576px;
   --breakpoint-md: 768px;
@@ -92,6 +93,7 @@ abbr[data-original-title] {
   border-bottom: 0;
   text-decoration-skip-ink: none;
 }
+
 
 address {
   margin-bottom: 1rem;
@@ -9516,7 +9518,7 @@ h6 {
   height: 50%;
   top: 0;
   left: 0;
-  background: #181818;
+  background: #0F539D;
 }
 
 .nav-bar::after {
@@ -9526,7 +9528,7 @@ h6 {
   height: 50%;
   bottom: 0;
   left: 0;
-  background: #ffffff;
+  background: #0F539D;
 }
 
 .navbar-dark .navbar-nav .nav-link {
