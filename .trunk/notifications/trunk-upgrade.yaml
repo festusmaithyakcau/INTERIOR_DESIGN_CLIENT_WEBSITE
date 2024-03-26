@@ -1,0 +1,16 @@
+commands:
+  - run: trunk upgrade
+    title: all
+  - run: trunk upgrade cli
+    title: CLI
+  - run: trunk upgrade check
+    title: Linters
+full_timestamp:
+  nanos: 423843000
+  seconds: 1711136015
+id: trunk-upgrade
+message: " cli version 1.21.0\n 4 linter upgrades\n"
+priority: low
+rendered: "\x1b[90mRun \x1b[0m\x1b[96mtrunk upgrade\x1b[0m\x1b[90m to upgrade \x1b[0m\x1b[90mtrunk and 4 linters\n\x1b[0m"
+timestamp: 1711136015
+title: Upgrades Available

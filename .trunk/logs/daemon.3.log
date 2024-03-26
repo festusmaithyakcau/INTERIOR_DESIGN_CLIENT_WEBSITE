@@ -1,0 +1,610 @@
+[2024-03-12 15:09:54.469] [global] [info] [cache.cc:972] [on-demand] [git-diff-check:lint:scss\bootstrap\scss\utilities\_screenreaders.scss:upstream] not cacheable, running linter
+[2024-03-12 15:09:54.478] [global] [info] [cache.cc:972] [on-demand] [git-diff-check:lint:scss\bootstrap\scss\utilities\_shadows.scss:upstream] not cacheable, running linter
+[2024-03-12 15:09:54.478] [global] [info] [cache.cc:972] [on-demand] [git-diff-check:lint:scss\bootstrap\scss\utilities\_sizing.scss:upstream] not cacheable, running linter
+[2024-03-12 15:09:54.478] [global] [info] [cache.cc:972] [on-demand] [git-diff-check:lint:scss\bootstrap\scss\utilities\_spacing.scss:upstream] not cacheable, running linter
+[2024-03-12 15:09:54.478] [global] [info] [cache.cc:972] [on-demand] [git-diff-check:lint:scss\bootstrap\scss\utilities\_stretched-link.scss:upstream] not cacheable, running linter
+[2024-03-12 15:09:54.478] [global] [info] [cache.cc:972] [on-demand] [git-diff-check:lint:scss\bootstrap\scss\utilities\_text.scss:upstream] not cacheable, running linter
+[2024-03-12 15:09:54.478] [global] [info] [cache.cc:972] [on-demand] [git-diff-check:lint:scss\bootstrap\scss\utilities\_visibility.scss:upstream] not cacheable, running linter
+[2024-03-12 15:09:54.478] [global] [info] [cache.cc:972] [on-demand] [git-diff-check:lint:scss\style.scss:upstream] not cacheable, running linter
+[2024-03-12 15:09:54.478] [global] [info] [cache.cc:972] [on-demand] [git-diff-check:lint:service.html:upstream] not cacheable, running linter
+[2024-03-12 15:09:54.478] [global] [info] [cache.cc:972] [on-demand] [git-diff-check:lint:single.html:upstream] not cacheable, running linter
+[2024-03-12 15:09:54.486] [global] [info] [runner.cc:102] Writing git-diff-check predecessor error to C:\Users\admin\Desktop\INTERIOR_DESIGN_WEBSITE\.trunk\out\RHvrk.yaml
+[2024-03-12 15:09:54.520] [global] [info] [runner.cc:102] Writing markdownlint predecessor error to C:\Users\admin\Desktop\INTERIOR_DESIGN_WEBSITE\.trunk\out\h4dLh.yaml
+[2024-03-12 15:09:54.523] [global] [info] [runner.cc:102] Writing git-diff-check predecessor error to C:\Users\admin\Desktop\INTERIOR_DESIGN_WEBSITE\.trunk\out\gK6RM.yaml
+[2024-03-12 15:09:54.525] [global] [info] [runner.cc:102] Writing git-diff-check predecessor error to C:\Users\admin\Desktop\INTERIOR_DESIGN_WEBSITE\.trunk\out\sItXo.yaml
+[2024-03-12 15:09:54.527] [global] [info] [runner.cc:102] Writing prettier predecessor error to C:\Users\admin\Desktop\INTERIOR_DESIGN_WEBSITE\.trunk\out\LUNhC.yaml
+[2024-03-12 15:09:54.553] [global] [info] [runner.cc:102] Writing svgo predecessor error to C:\Users\admin\Desktop\INTERIOR_DESIGN_WEBSITE\.trunk\out\Od1Nt.yaml
+[2024-03-12 15:09:54.575] [global] [info] [runner.cc:102] Writing prettier predecessor error to C:\Users\admin\Desktop\INTERIOR_DESIGN_WEBSITE\.trunk\out\0kMrN.yaml
+[2024-03-12 15:09:54.598] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:README.md:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.598] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:about.html:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.598] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:blog.html:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.598] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:contact.html:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.598] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:css\style.css:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.598] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:css\style.min.css:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.598] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:img\blog-1.jpg:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.598] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:img\blog-2.jpg:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.598] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:img\blog-3.jpg:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.598] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:img\carousel-1.jpg:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.598] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:img\carousel-2.jpg:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.599] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:img\feature.jpg:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.599] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:img\portfolio-1.jpg:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.599] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:img\portfolio-2.jpg:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.599] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:img\portfolio-3.jpg:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.599] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:img\portfolio-4.jpg:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.599] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:img\portfolio-5.jpg:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.599] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:img\portfolio-6.jpg:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.599] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:img\team-1.jpg:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.599] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:img\team-2.jpg:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.599] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:img\team-3.jpg:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.599] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:img\team-4.jpg:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.599] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:img\testimonial-1.jpg:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.599] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:img\testimonial-2.jpg:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.599] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:img\testimonial.jpg:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.599] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:img\user.jpg:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.599] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:index.html:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.599] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:js\main.js:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.599] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\easing\easing.js:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.599] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\easing\easing.min.js:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.599] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\flaticon\backup.txt:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.599] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\flaticon\font\Flaticon.eot:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.599] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\flaticon\font\Flaticon.svg:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.599] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\flaticon\font\Flaticon.ttf:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.600] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\flaticon\font\Flaticon.woff:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.600] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\flaticon\font\Flaticon.woff2:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.600] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\flaticon\font\_flaticon.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.600] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\flaticon\font\flaticon.css:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.600] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\flaticon\font\flaticon.html:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.600] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\flaticon\license\license.pdf:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.600] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\isotope\isotope.pkgd.js:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.600] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\isotope\isotope.pkgd.min.js:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.600] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\lightbox\css\lightbox.css:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.600] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\lightbox\css\lightbox.min.css:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.600] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\lightbox\images\close.png:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.600] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\lightbox\images\loading.gif:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.600] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\lightbox\images\next.png:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.600] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\lightbox\images\prev.png:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.600] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\lightbox\js\lightbox.js:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.600] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\lightbox\js\lightbox.min.js:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.600] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\lightbox\links.php:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.600] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\owlcarousel\LICENSE:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.600] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\owlcarousel\assets\ajax-loader.gif:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.600] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\owlcarousel\assets\owl.carousel.css:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.600] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\owlcarousel\assets\owl.carousel.min.css:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.600] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\owlcarousel\assets\owl.theme.default.css:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.600] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\owlcarousel\assets\owl.theme.default.min.css:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.601] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\owlcarousel\assets\owl.theme.green.css:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.601] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\owlcarousel\assets\owl.theme.green.min.css:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.601] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\owlcarousel\assets\owl.video.play.png:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.601] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\owlcarousel\owl.carousel.js:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.601] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\owlcarousel\owl.carousel.min.js:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.601] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:mail\contact.js:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.601] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:mail\contact.php:HEAD] not cacheable, running linter
+[2024-03-12 15:09:54.725] [global] [info] [service.cc:458] [user-agent= sid=10] TX:virtual grpc::Status trunk::cli::lint::Service::Lint(grpc::ServerContext *, const proto::v1::LintRequest *, grpc::ServerWriter<proto::v1::LintResponse> *) status=OK
+[2024-03-12 15:09:54.731] [global] [info] [service.cc:515] [user-agent=lsp-proxy sid=10] RX:virtual grpc::Status trunk::cli::lint::Service::GetLandingState(grpc::ServerContext *, const proto::v1::GetLandingStateRequest *, proto::v1::GetLandingStateResponse *)
+[2024-03-12 15:09:54.732] [global] [info] [service.cc:515] [user-agent=lsp-proxy sid=10] TX:virtual grpc::Status trunk::cli::lint::Service::GetLandingState(grpc::ServerContext *, const proto::v1::GetLandingStateRequest *, proto::v1::GetLandingStateResponse *) status=OK
+[2024-03-12 15:09:54.734] [global] [info] [service.cc:224] lint session ended sid=10
+[2024-03-12 15:09:54.734] [global] [info] [service.cc:226] [user-agent=lsp-proxy sid=10] RX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *)
+[2024-03-12 15:09:54.736] [global] [info] [service.cc:226] [user-agent=lsp-proxy sid=10] TX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *) status=OK
+[2024-03-12 15:09:54.736] [global] [info] [service.cc:293] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *)
+[2024-03-12 15:09:54.742] [global] [info] [service.cc:293] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *) status=OK
+[2024-03-12 15:09:55.270] [global] [info] [service.cc:284] [user-agent=lsp-proxy sid=10] TrackCheckUsageEvent upload ok: true with code: ok
+[2024-03-12 15:09:57.131] [global] [info] [downloader.cc:246] Failed to remove trunk_download at C:\Users\admin\AppData\Local\trunk\tools\oxipng\9.0.0-d9dc1b61ac4cd2281b5e404d7b60ce06 with error Permission denied
+[2024-03-12 15:09:57.176] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:mail\jqBootstrapValidation.min.js:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.176] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:project.html:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.176] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_alert.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.176] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_badge.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.176] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_breadcrumb.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.176] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_button-group.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.177] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_buttons.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.177] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_card.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.177] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_carousel.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.177] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_close.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.177] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_code.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.177] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_custom-forms.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.177] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_dropdown.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.177] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_forms.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.177] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_functions.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.177] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_grid.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.177] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_images.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.177] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_input-group.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.177] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_jumbotron.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.177] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_list-group.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.177] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_media.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.177] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_mixins.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.177] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_modal.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.177] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_nav.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.177] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_navbar.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.178] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_pagination.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.178] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_popover.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.178] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_print.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.178] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_progress.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.178] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_reboot.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.178] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_root.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.178] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_spinners.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.178] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_tables.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.178] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_toasts.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.178] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_tooltip.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.178] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_transitions.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.178] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_type.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.178] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_utilities.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.178] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_variables.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.178] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\bootstrap-grid.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.178] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\bootstrap-reboot.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.178] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\bootstrap.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.178] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_alert.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.178] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_background-variant.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.178] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_badge.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.178] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_border-radius.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.178] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_box-shadow.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.178] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_breakpoints.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.179] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_buttons.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.179] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_caret.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.179] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_clearfix.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.179] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_deprecate.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.179] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_float.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.179] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_forms.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.179] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_gradients.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.179] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_grid-framework.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.179] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_grid.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.179] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_hover.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.179] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_image.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.179] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_list-group.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.179] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_lists.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.179] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_nav-divider.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.179] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_pagination.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:09:57.179] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_reset-text.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:10:05.579] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_resize.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:10:05.579] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_screen-reader.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:10:05.579] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_size.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:10:05.579] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_table-row.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:10:05.579] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_text-emphasis.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:10:05.579] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_text-hide.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:10:05.579] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_text-truncate.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:10:05.579] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_transition.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:10:05.579] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_visibility.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:10:05.579] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\utilities\_align.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:10:05.579] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\utilities\_background.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:10:05.579] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\utilities\_borders.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:10:05.579] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\utilities\_clearfix.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:10:05.579] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\utilities\_display.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:10:05.579] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\utilities\_embed.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:10:05.579] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\utilities\_flex.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:10:05.579] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\utilities\_float.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:10:05.580] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\utilities\_interactions.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:10:05.580] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\utilities\_overflow.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:10:05.580] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\utilities\_position.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:10:05.580] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\utilities\_screenreaders.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:10:05.580] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\utilities\_shadows.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:10:05.580] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\utilities\_sizing.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:10:05.580] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\utilities\_spacing.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:10:05.580] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\utilities\_stretched-link.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:10:05.580] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\utilities\_text.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:10:05.580] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\utilities\_visibility.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:10:05.580] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\vendor\_rfs.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:10:05.580] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\style.scss:HEAD] not cacheable, running linter
+[2024-03-12 15:10:05.580] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:service.html:HEAD] not cacheable, running linter
+[2024-03-12 15:10:05.580] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:single.html:HEAD] not cacheable, running linter
+[2024-03-12 15:10:08.868] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:README.md:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.868] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:about.html:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.868] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:blog.html:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.868] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:contact.html:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.868] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:css\style.css:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.869] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:css\style.min.css:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.869] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:img\blog-1.jpg:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.869] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:img\blog-2.jpg:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.869] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:img\blog-3.jpg:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.869] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:img\carousel-1.jpg:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.869] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:img\carousel-2.jpg:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.869] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:img\feature.jpg:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.869] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:img\portfolio-1.jpg:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.869] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:img\portfolio-2.jpg:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.869] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:img\portfolio-3.jpg:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.869] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:img\portfolio-4.jpg:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.869] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:img\portfolio-5.jpg:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.869] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:img\portfolio-6.jpg:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.869] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:img\team-1.jpg:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.869] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:img\team-2.jpg:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.869] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:img\team-3.jpg:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.869] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:img\team-4.jpg:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.869] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:img\testimonial-1.jpg:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.869] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:img\testimonial-2.jpg:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.869] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:img\testimonial.jpg:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.869] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:img\user.jpg:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.869] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:index.html:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.869] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:js\main.js:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.869] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\easing\easing.js:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.869] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\easing\easing.min.js:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.869] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\flaticon\backup.txt:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.869] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\flaticon\font\Flaticon.eot:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.869] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\flaticon\font\Flaticon.svg:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.870] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\flaticon\font\Flaticon.ttf:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.870] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\flaticon\font\Flaticon.woff:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.870] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\flaticon\font\Flaticon.woff2:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.870] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\flaticon\font\_flaticon.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.870] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\flaticon\font\flaticon.css:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.870] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\flaticon\font\flaticon.html:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.870] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\flaticon\license\license.pdf:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.870] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\isotope\isotope.pkgd.js:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.870] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\isotope\isotope.pkgd.min.js:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.870] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\lightbox\css\lightbox.css:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.870] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\lightbox\css\lightbox.min.css:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.870] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\lightbox\images\close.png:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.870] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\lightbox\images\loading.gif:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.870] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\lightbox\images\next.png:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.870] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\lightbox\images\prev.png:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.870] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\lightbox\js\lightbox.js:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.870] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\lightbox\js\lightbox.min.js:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.870] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\lightbox\links.php:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.870] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\owlcarousel\LICENSE:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.870] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\owlcarousel\assets\ajax-loader.gif:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.870] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\owlcarousel\assets\owl.carousel.css:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.870] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\owlcarousel\assets\owl.carousel.min.css:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.870] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\owlcarousel\assets\owl.theme.default.css:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.870] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\owlcarousel\assets\owl.theme.default.min.css:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.870] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\owlcarousel\assets\owl.theme.green.css:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.871] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\owlcarousel\assets\owl.theme.green.min.css:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.871] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\owlcarousel\assets\owl.video.play.png:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.871] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\owlcarousel\owl.carousel.js:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.871] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:lib\owlcarousel\owl.carousel.min.js:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.871] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:mail\contact.js:upstream] not cacheable, running linter
+[2024-03-12 15:10:08.871] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:mail\contact.php:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.779] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:mail\jqBootstrapValidation.min.js:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.779] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:project.html:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.779] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_alert.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.779] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_badge.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.779] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_breadcrumb.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.780] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_button-group.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.780] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_buttons.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.780] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_card.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.780] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_carousel.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.780] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_close.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.780] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_code.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.780] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_custom-forms.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.780] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_dropdown.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.780] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_forms.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.780] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_functions.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.780] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_grid.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.780] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_images.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.780] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_input-group.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.780] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_jumbotron.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.780] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_list-group.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.780] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_media.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.780] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_mixins.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.780] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_modal.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.780] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_nav.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.780] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_navbar.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.780] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_pagination.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.780] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_popover.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.780] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_print.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.781] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_progress.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.781] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_reboot.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.781] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_root.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.781] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_spinners.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.781] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_tables.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.781] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_toasts.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.781] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_tooltip.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.781] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_transitions.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.781] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_type.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.781] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_utilities.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.781] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\_variables.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.781] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\bootstrap-grid.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.781] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\bootstrap-reboot.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.781] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\bootstrap.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.781] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_alert.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.781] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_background-variant.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.781] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_badge.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.781] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_border-radius.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.781] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_box-shadow.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.781] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_breakpoints.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.781] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_buttons.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.781] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_caret.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.781] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_clearfix.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.781] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_deprecate.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.781] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_float.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.781] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_forms.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.782] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_gradients.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.782] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_grid-framework.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.782] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_grid.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.782] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_hover.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.782] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_image.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.782] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_list-group.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.782] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_lists.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.782] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_nav-divider.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.782] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_pagination.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:14.782] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_reset-text.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:16.606] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_resize.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:16.606] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_screen-reader.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:16.606] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_size.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:16.606] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_table-row.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:16.606] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_text-emphasis.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:16.606] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_text-hide.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:16.606] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_text-truncate.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:16.606] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_transition.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:16.606] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\mixins\_visibility.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:16.606] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\utilities\_align.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:16.606] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\utilities\_background.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:16.606] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\utilities\_borders.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:16.606] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\utilities\_clearfix.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:16.606] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\utilities\_display.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:16.606] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\utilities\_embed.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:16.606] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\utilities\_flex.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:16.606] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\utilities\_float.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:16.607] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\utilities\_interactions.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:16.607] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\utilities\_overflow.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:16.607] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\utilities\_position.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:16.607] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\utilities\_screenreaders.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:16.607] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\utilities\_shadows.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:16.607] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\utilities\_sizing.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:16.607] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\utilities\_spacing.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:16.607] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\utilities\_stretched-link.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:16.607] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\utilities\_text.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:16.607] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\utilities\_visibility.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:16.607] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\bootstrap\scss\vendor\_rfs.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:16.607] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:scss\style.scss:upstream] not cacheable, running linter
+[2024-03-12 15:10:16.607] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:service.html:upstream] not cacheable, running linter
+[2024-03-12 15:10:16.607] [global] [info] [cache.cc:972] [on-demand] [trufflehog:lint:single.html:upstream] not cacheable, running linter
+[2024-03-12 15:10:22.182] [global] [info] [cache.cc:972] [on-demand] [oxipng:fmt:lib\lightbox\images\close.png:HEAD] not cacheable, running linter
+[2024-03-12 15:10:22.182] [global] [info] [cache.cc:972] [on-demand] [oxipng:fmt:lib\lightbox\images\next.png:HEAD] not cacheable, running linter
+[2024-03-12 15:10:22.182] [global] [info] [cache.cc:972] [on-demand] [oxipng:fmt:lib\lightbox\images\prev.png:HEAD] not cacheable, running linter
+[2024-03-12 15:10:22.182] [global] [info] [cache.cc:972] [on-demand] [oxipng:fmt:lib\owlcarousel\assets\owl.video.play.png:HEAD] not cacheable, running linter
+[2024-03-12 15:10:27.130] [global] [info] [runner.cc:102] Writing git-diff-check predecessor error to C:\Users\admin\Desktop\INTERIOR_DESIGN_WEBSITE\.trunk\out\v6Hdy.yaml
+[2024-03-12 15:10:27.132] [global] [info] [runner.cc:102] Writing git-diff-check predecessor error to C:\Users\admin\Desktop\INTERIOR_DESIGN_WEBSITE\.trunk\out\nAAed.yaml
+[2024-03-12 15:10:27.133] [global] [info] [runner.cc:102] Writing git-diff-check predecessor error to C:\Users\admin\Desktop\INTERIOR_DESIGN_WEBSITE\.trunk\out\3VYZa.yaml
+[2024-03-12 15:10:27.135] [global] [info] [runner.cc:102] Writing git-diff-check predecessor error to C:\Users\admin\Desktop\INTERIOR_DESIGN_WEBSITE\.trunk\out\p4nx4.yaml
+[2024-03-12 15:10:27.137] [global] [info] [runner.cc:102] Writing git-diff-check predecessor error to C:\Users\admin\Desktop\INTERIOR_DESIGN_WEBSITE\.trunk\out\xBE6w.yaml
+[2024-03-12 15:10:27.139] [global] [info] [runner.cc:102] Writing git-diff-check predecessor error to C:\Users\admin\Desktop\INTERIOR_DESIGN_WEBSITE\.trunk\out\ZkD5n.yaml
+[2024-03-12 15:10:27.140] [global] [info] [runner.cc:102] Writing markdownlint predecessor error to C:\Users\admin\Desktop\INTERIOR_DESIGN_WEBSITE\.trunk\out\4GF7V.yaml
+[2024-03-12 15:10:27.142] [global] [info] [runner.cc:102] Writing prettier predecessor error to C:\Users\admin\Desktop\INTERIOR_DESIGN_WEBSITE\.trunk\out\IeaXC.yaml
+[2024-03-12 15:10:27.143] [global] [info] [runner.cc:102] Writing svgo predecessor error to C:\Users\admin\Desktop\INTERIOR_DESIGN_WEBSITE\.trunk\out\jtfwS.yaml
+[2024-03-12 15:10:28.675] [global] [info] [service.cc:458] [user-agent= sid=12] TX:virtual grpc::Status trunk::cli::lint::Service::Lint(grpc::ServerContext *, const proto::v1::LintRequest *, grpc::ServerWriter<proto::v1::LintResponse> *) status=OK
+[2024-03-12 15:10:28.678] [global] [info] [service.cc:515] [user-agent=lsp-proxy sid=12] RX:virtual grpc::Status trunk::cli::lint::Service::GetLandingState(grpc::ServerContext *, const proto::v1::GetLandingStateRequest *, proto::v1::GetLandingStateResponse *)
+[2024-03-12 15:10:28.679] [global] [info] [service.cc:515] [user-agent=lsp-proxy sid=12] TX:virtual grpc::Status trunk::cli::lint::Service::GetLandingState(grpc::ServerContext *, const proto::v1::GetLandingStateRequest *, proto::v1::GetLandingStateResponse *) status=OK
+[2024-03-12 15:10:28.681] [global] [info] [service.cc:224] lint session ended sid=12
+[2024-03-12 15:10:28.681] [global] [info] [service.cc:226] [user-agent=lsp-proxy sid=12] RX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *)
+[2024-03-12 15:10:28.683] [global] [info] [service.cc:226] [user-agent=lsp-proxy sid=12] TX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *) status=OK
+[2024-03-12 15:10:28.683] [global] [info] [service.cc:293] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *)
+[2024-03-12 15:10:28.699] [global] [info] [service.cc:293] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *) status=OK
+[2024-03-12 15:10:29.655] [global] [info] [service.cc:284] [user-agent=lsp-proxy sid=12] TrackCheckUsageEvent upload ok: true with code: ok
+[2024-03-12 15:14:07.099] [global] [info] [runner.cc:147] Executing action trunk-single-player-auto-on-upgrade.schedule.24h+5m
+[2024-03-12 15:14:11.395] [global] [info] [service.cc:145] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, proto::v1::StartResponse *)
+[2024-03-12 15:14:11.609] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'clang-tidy' has no matching download for current os/cpu @ version:16.0.3
+[2024-03-12 15:14:11.610] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'shellcheck' has no matching download for current os/cpu @ version:0.8.0
+[2024-03-12 15:14:11.614] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'clang-format' has no matching download for current os/cpu @ version:14.0.1
+[2024-03-12 15:14:11.617] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'stringslint' has no matching download for current os/cpu @ version:0.1.1
+[2024-03-12 15:14:11.619] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'action-validator' has no matching download for current os/cpu @ version:0.5.3
+[2024-03-12 15:14:11.623] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'istioctl' has no matching download for current os/cpu @ version:1.14.6
+[2024-03-12 15:14:11.625] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'tfnotify' has no matching download for current os/cpu @ version:0.8.0
+[2024-03-12 15:14:11.626] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'scalafmt' has no matching download for current os/cpu @ version:3.4.3
+[2024-03-12 15:14:11.628] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'direnv' has no matching download for current os/cpu @ version:2.32.3
+[2024-03-12 15:14:11.663] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'amazon-ecr-credential-helper' has no matching download for current os/cpu @ version:0.7.0
+[2024-03-12 15:14:11.667] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'act' has no matching download for current os/cpu @ version:0.2.49
+[2024-03-12 15:14:11.668] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'yarn' has no matching download for current os/cpu @ version:1.22.19
+[2024-03-12 15:14:11.671] [global] [info] [grpc.cc:24] RX:virtual grpc::Status trunk::cli::UpgradeService::GetAvailableUpgrades(grpc::ServerContext *, const upgrade::proto::v1::GetAvailableUpgradesRequest *, grpc::ServerWriter<upgrade::proto::v1::GetAvailableUpgradesResponse> *)
+[2024-03-12 15:14:11.677] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'trunk-toolbox' has no matching download for current os/cpu @ version:0.3.1
+[2024-03-12 15:14:11.678] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'adr' has no matching download for current os/cpu @ version:3.0.0
+[2024-03-12 15:14:11.684] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'air' has no matching download for current os/cpu @ version:1.44.0
+[2024-03-12 15:14:11.684] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'swiftlint' has no matching download for current os/cpu @ version:0.49.1
+[2024-03-12 15:14:11.686] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'assh' has no matching download for current os/cpu @ version:2.10.0
+[2024-03-12 15:14:11.687] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'include-what-you-use' has no matching download for current os/cpu @ version:0.20
+[2024-03-12 15:14:11.693] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'tfmigrate' has no matching download for current os/cpu @ version:0.3.14
+[2024-03-12 15:14:11.696] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'swiftformat' has no matching download for current os/cpu @ version:0.50.0
+[2024-03-12 15:14:11.697] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'kubectl' has no matching download for current os/cpu @ version:1.25.16
+[2024-03-12 15:14:11.805] [global] [info] [plugin_upgrade.cc:71] Querying latest version for plugin trunk
+[2024-03-12 15:14:12.036] [global] [info] [session_context.cc:139] Making commit info with id: 8f25a145be88681bfa9d84e696c595faf200002e
+[2024-03-12 15:14:12.201] [global] [info] [service.cc:116] Notifications config has not changed
+[2024-03-12 15:14:12.272] [global] [info] [service.cc:213] [user-agent=lsp-proxy sid=n/a] lint session created sid=13 with the following options:
+cache_enabled: true
+num_jobs: 2
+session_type: SESSION_TYPE_LSP
+client_id: "lsp-proxy"
+scope: SESSION_SCOPE_ALL
+
+[2024-03-12 15:14:12.272] [global] [info] [service.cc:145] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, proto::v1::StartResponse *) status=OK
+[2024-03-12 15:14:12.273] [global] [info] [grpc.cc:24] RX:virtual grpc::Status trunk::cli::UpgradeService::GetAvailableUpgrades(grpc::ServerContext *, const upgrade::proto::v1::GetAvailableUpgradesRequest *, grpc::ServerWriter<upgrade::proto::v1::GetAvailableUpgradesResponse> *)
+[2024-03-12 15:14:12.356] [global] [info] [cli_upgrade.cc:85] Checking for latest trunk prod version...
+[2024-03-12 15:14:12.358] [global] [info] [plugin_upgrade.cc:71] Querying latest version for plugin trunk
+[2024-03-12 15:14:13.339] [global] [info] [cli_upgrade.cc:92] Successfully fetched latest trunk 1.20.1 version: prod
+[2024-03-12 15:14:14.341] [global] [info] [service.cc:224] lint session ended sid=5
+[2024-03-12 15:14:14.341] [global] [info] [service.cc:226] [user-agent=lsp-proxy sid=5] RX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *)
+[2024-03-12 15:14:14.343] [global] [info] [service.cc:226] [user-agent=lsp-proxy sid=5] TX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *) status=OK
+[2024-03-12 15:14:14.343] [global] [info] [service.cc:293] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *)
+[2024-03-12 15:14:14.348] [global] [info] [service.cc:293] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *) status=OK
+[2024-03-12 15:14:14.348] [global] [info] [service.cc:224] lint session ended sid=4
+[2024-03-12 15:14:14.348] [global] [info] [service.cc:226] [user-agent=lsp-proxy sid=4] RX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *)
+[2024-03-12 15:14:14.358] [global] [info] [service.cc:226] [user-agent=lsp-proxy sid=4] TX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *) status=OK
+[2024-03-12 15:14:14.358] [global] [info] [service.cc:293] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *)
+[2024-03-12 15:14:14.363] [global] [info] [service.cc:293] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *) status=OK
+[2024-03-12 15:14:14.440] [global] [info] [grpc.cc:29] TX:virtual grpc::Status trunk::cli::UpgradeService::GetAvailableUpgrades(grpc::ServerContext *, const upgrade::proto::v1::GetAvailableUpgradesRequest *, grpc::ServerWriter<upgrade::proto::v1::GetAvailableUpgradesResponse> *) status=OK
+[2024-03-12 15:14:14.448] [global] [info] [grpc.cc:24] RX:virtual grpc::Status trunk::cli::UpgradeService::ApplySpecifiedUpgrades(grpc::ServerContext *, const upgrade::proto::v1::ApplySpecifiedUpgradesRequest *, upgrade::proto::v1::ApplySpecifiedUpgradesResponse *)
+[2024-03-12 15:14:14.539] [global] [info] [service.cc:227] Applying upgrade changes to trunk.yaml
+[2024-03-12 15:14:14.541] [global] [info] [linter_upgrade.cc:346] Detected 0 configs to write
+[2024-03-12 15:14:14.545] [global] [info] [grpc.cc:29] TX:virtual grpc::Status trunk::cli::UpgradeService::ApplySpecifiedUpgrades(grpc::ServerContext *, const upgrade::proto::v1::ApplySpecifiedUpgradesRequest *, upgrade::proto::v1::ApplySpecifiedUpgradesResponse *) status=OK
+[2024-03-12 15:14:14.589] [global] [info] [grpc.cc:29] TX:virtual grpc::Status trunk::cli::actions::Service::GetNotificationsStream(grpc::ServerContext *, const proto::v1::GetNotificationsStreamRequest *, grpc::ServerWriter<proto::v1::GetNotificationsStreamResponse> *) status=OK
+[2024-03-12 15:14:14.979] [global] [info] [grpc.cc:24] RX:virtual grpc::Status trunk::cli::UpgradeService::GetAvailableUpgrades(grpc::ServerContext *, const upgrade::proto::v1::GetAvailableUpgradesRequest *, grpc::ServerWriter<upgrade::proto::v1::GetAvailableUpgradesResponse> *)
+[2024-03-12 15:14:15.215] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'kubectl' has no matching download for current os/cpu @ version:1.25.16
+[2024-03-12 15:14:15.216] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'swiftformat' has no matching download for current os/cpu @ version:0.50.0
+[2024-03-12 15:14:15.218] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'tfmigrate' has no matching download for current os/cpu @ version:0.3.14
+[2024-03-12 15:14:15.218] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'include-what-you-use' has no matching download for current os/cpu @ version:0.20
+[2024-03-12 15:14:15.220] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'assh' has no matching download for current os/cpu @ version:2.10.0
+[2024-03-12 15:14:15.222] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'air' has no matching download for current os/cpu @ version:1.44.0
+[2024-03-12 15:14:15.225] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'swiftlint' has no matching download for current os/cpu @ version:0.49.1
+[2024-03-12 15:14:15.228] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'adr' has no matching download for current os/cpu @ version:3.0.0
+[2024-03-12 15:14:15.229] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'trunk-toolbox' has no matching download for current os/cpu @ version:0.3.1
+[2024-03-12 15:14:15.238] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'yarn' has no matching download for current os/cpu @ version:1.22.19
+[2024-03-12 15:14:15.240] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'amazon-ecr-credential-helper' has no matching download for current os/cpu @ version:0.7.0
+[2024-03-12 15:14:15.241] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'act' has no matching download for current os/cpu @ version:0.2.49
+[2024-03-12 15:14:15.247] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'direnv' has no matching download for current os/cpu @ version:2.32.3
+[2024-03-12 15:14:15.248] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'scalafmt' has no matching download for current os/cpu @ version:3.4.3
+[2024-03-12 15:14:15.251] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'istioctl' has no matching download for current os/cpu @ version:1.14.6
+[2024-03-12 15:14:15.253] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'tfnotify' has no matching download for current os/cpu @ version:0.8.0
+[2024-03-12 15:14:15.256] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'stringslint' has no matching download for current os/cpu @ version:0.1.1
+[2024-03-12 15:14:15.258] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'action-validator' has no matching download for current os/cpu @ version:0.5.3
+[2024-03-12 15:14:15.260] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'clang-format' has no matching download for current os/cpu @ version:14.0.1
+[2024-03-12 15:14:15.268] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'shellcheck' has no matching download for current os/cpu @ version:0.8.0
+[2024-03-12 15:14:15.274] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'clang-tidy' has no matching download for current os/cpu @ version:16.0.3
+[2024-03-12 15:14:15.280] [global] [info] [service.cc:116] Notifications config has not changed
+[2024-03-12 15:14:21.550] [global] [info] [linter.cc:1651] Found config in plugin repo at C:\Users\admin\AppData\Local\trunk\plugins\https---github-com-trunk-io-plugins\v1.4.4-4ebadccd80b22638\linters\remark-lint\.remarkrc.yaml
+[2024-03-12 15:14:21.552] [global] [info] [linter.cc:1651] Found config in plugin repo at C:\Users\admin\AppData\Local\trunk\plugins\https---github-com-trunk-io-plugins\v1.4.4-4ebadccd80b22638\linters\djlint\.djlintrc
+[2024-03-12 15:14:21.555] [global] [info] [linter.cc:1651] Found config in plugin repo at C:\Users\admin\AppData\Local\trunk\plugins\https---github-com-trunk-io-plugins\v1.4.4-4ebadccd80b22638\linters\djlint\.djlintrc
+[2024-03-12 15:14:21.557] [global] [info] [linter.cc:1651] Found config in plugin repo at C:\Users\admin\AppData\Local\trunk\plugins\https---github-com-trunk-io-plugins\v1.4.4-4ebadccd80b22638\linters\cspell\cspell.yaml
+[2024-03-12 15:14:21.558] [global] [info] [linter.cc:1651] Found config in plugin repo at C:\Users\admin\AppData\Local\trunk\plugins\https---github-com-trunk-io-plugins\v1.4.4-4ebadccd80b22638\linters\remark-lint\.remarkrc.yaml
+[2024-03-12 15:14:21.565] [global] [info] [linter.cc:1651] Found config in plugin repo at C:\Users\admin\AppData\Local\trunk\plugins\https---github-com-trunk-io-plugins\v1.4.4-4ebadccd80b22638\linters\djlint\.djlintrc
+[2024-03-12 15:14:21.566] [global] [info] [linter.cc:1651] Found config in plugin repo at C:\Users\admin\AppData\Local\trunk\plugins\https---github-com-trunk-io-plugins\v1.4.4-4ebadccd80b22638\linters\cspell\cspell.yaml
+[2024-03-12 15:14:21.567] [global] [info] [linter.cc:1651] Found config in plugin repo at C:\Users\admin\AppData\Local\trunk\plugins\https---github-com-trunk-io-plugins\v1.4.4-4ebadccd80b22638\linters\djlint\.djlintrc
+[2024-03-12 15:14:21.570] [global] [info] [linter.cc:1651] Found config in plugin repo at C:\Users\admin\AppData\Local\trunk\plugins\https---github-com-trunk-io-plugins\v1.4.4-4ebadccd80b22638\linters\remark-lint\.remarkrc.yaml
+[2024-03-12 15:14:21.572] [global] [info] [linter.cc:1651] Found config in plugin repo at C:\Users\admin\AppData\Local\trunk\plugins\https---github-com-trunk-io-plugins\v1.4.4-4ebadccd80b22638\linters\remark-lint\.remarkrc.yaml
+[2024-03-12 15:14:23.342] [global] [info] [release.cc:138] Retrieved 5 linter-version pairs from ReleaseVersionService
+[2024-03-12 15:14:23.349] [global] [info] [release.cc:138] Retrieved 5 linter-version pairs from ReleaseVersionService
+[2024-03-12 15:14:23.379] [global] [error] [node_runtime.cc:96] Failed to fetch latest version for package markdownlint-cli. failed Unknown token 'env.PATH' in ${env.PATH}
+
+[2024-03-12 15:14:23.379] [global] [error] [node_runtime.cc:96] Failed to fetch latest version for package svgo. failed Unknown token 'env.PATH' in ${env.PATH}
+
+[2024-03-12 15:14:23.379] [global] [error] [node_runtime.cc:96] Failed to fetch latest version for package prettier. failed Unknown token 'env.PATH' in ${env.PATH}
+
+[2024-03-12 15:14:23.382] [global] [error] [node_runtime.cc:96] Failed to fetch latest version for package markdownlint-cli. failed Unknown token 'env.PATH' in ${env.PATH}
+
+[2024-03-12 15:14:23.382] [global] [error] [node_runtime.cc:96] Failed to fetch latest version for package prettier. failed Unknown token 'env.PATH' in ${env.PATH}
+
+[2024-03-12 15:14:23.382] [global] [error] [node_runtime.cc:96] Failed to fetch latest version for package svgo. failed Unknown token 'env.PATH' in ${env.PATH}
+
+[2024-03-12 15:14:23.588] [global] [info] [grpc.cc:29] TX:virtual grpc::Status trunk::cli::UpgradeService::GetAvailableUpgrades(grpc::ServerContext *, const upgrade::proto::v1::GetAvailableUpgradesRequest *, grpc::ServerWriter<upgrade::proto::v1::GetAvailableUpgradesResponse> *) status=OK
+[2024-03-12 15:14:23.588] [global] [info] [grpc.cc:29] TX:virtual grpc::Status trunk::cli::UpgradeService::GetAvailableUpgrades(grpc::ServerContext *, const upgrade::proto::v1::GetAvailableUpgradesRequest *, grpc::ServerWriter<upgrade::proto::v1::GetAvailableUpgradesResponse> *) status=OK
+[2024-03-12 15:14:23.589] [global] [info] [service.cc:224] lint session ended sid=13
+[2024-03-12 15:14:23.589] [global] [info] [service.cc:226] [user-agent=lsp-proxy sid=13] RX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *)
+[2024-03-12 15:14:23.590] [global] [info] [service.cc:226] [user-agent=lsp-proxy sid=13] TX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *) status=OK
+[2024-03-12 15:14:23.590] [global] [info] [service.cc:293] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *)
+[2024-03-12 15:14:23.594] [global] [info] [grpc.cc:24] RX:virtual grpc::Status trunk::cli::UpgradeService::ApplySpecifiedUpgrades(grpc::ServerContext *, const upgrade::proto::v1::ApplySpecifiedUpgradesRequest *, upgrade::proto::v1::ApplySpecifiedUpgradesResponse *)
+[2024-03-12 15:14:23.598] [global] [info] [service.cc:293] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *) status=OK
+[2024-03-12 15:14:23.604] [global] [info] [service.cc:224] lint session ended sid=3
+[2024-03-12 15:14:23.604] [global] [info] [service.cc:226] [user-agent=lsp-proxy sid=3] RX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *)
+[2024-03-12 15:14:23.605] [global] [info] [service.cc:226] [user-agent=lsp-proxy sid=3] TX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *) status=OK
+[2024-03-12 15:14:23.605] [global] [info] [service.cc:293] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *)
+[2024-03-12 15:14:23.608] [global] [info] [service.cc:227] Applying upgrade changes to trunk.yaml
+[2024-03-12 15:14:23.610] [global] [info] [linter_upgrade.cc:346] Detected 0 configs to write
+[2024-03-12 15:14:23.610] [global] [info] [grpc.cc:29] TX:virtual grpc::Status trunk::cli::UpgradeService::ApplySpecifiedUpgrades(grpc::ServerContext *, const upgrade::proto::v1::ApplySpecifiedUpgradesRequest *, upgrade::proto::v1::ApplySpecifiedUpgradesResponse *) status=OK
+[2024-03-12 15:14:23.613] [global] [info] [service.cc:293] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *) status=OK
+[2024-03-12 15:14:23.615] [global] [info] [service.cc:224] lint session ended sid=2
+[2024-03-12 15:14:23.615] [global] [info] [service.cc:226] [user-agent=lsp-proxy sid=2] RX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *)
+[2024-03-12 15:14:23.818] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'action-validator' has no matching download for current os/cpu @ version:0.5.3
+[2024-03-12 15:14:23.819] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'stringslint' has no matching download for current os/cpu @ version:0.1.1
+[2024-03-12 15:14:23.821] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'clang-format' has no matching download for current os/cpu @ version:14.0.1
+[2024-03-12 15:14:23.821] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'tfnotify' has no matching download for current os/cpu @ version:0.8.0
+[2024-03-12 15:14:23.822] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'istioctl' has no matching download for current os/cpu @ version:1.14.6
+[2024-03-12 15:14:23.824] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'clang-tidy' has no matching download for current os/cpu @ version:16.0.3
+[2024-03-12 15:14:23.829] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'shellcheck' has no matching download for current os/cpu @ version:0.8.0
+[2024-03-12 15:14:23.841] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'act' has no matching download for current os/cpu @ version:0.2.49
+[2024-03-12 15:14:23.842] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'amazon-ecr-credential-helper' has no matching download for current os/cpu @ version:0.7.0
+[2024-03-12 15:14:23.845] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'yarn' has no matching download for current os/cpu @ version:1.22.19
+[2024-03-12 15:14:23.847] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'scalafmt' has no matching download for current os/cpu @ version:3.4.3
+[2024-03-12 15:14:23.847] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'direnv' has no matching download for current os/cpu @ version:2.32.3
+[2024-03-12 15:14:23.850] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'adr' has no matching download for current os/cpu @ version:3.0.0
+[2024-03-12 15:14:23.852] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'trunk-toolbox' has no matching download for current os/cpu @ version:0.3.1
+[2024-03-12 15:14:23.860] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'tfmigrate' has no matching download for current os/cpu @ version:0.3.14
+[2024-03-12 15:14:23.861] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'include-what-you-use' has no matching download for current os/cpu @ version:0.20
+[2024-03-12 15:14:23.862] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'swiftformat' has no matching download for current os/cpu @ version:0.50.0
+[2024-03-12 15:14:23.863] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'kubectl' has no matching download for current os/cpu @ version:1.25.16
+[2024-03-12 15:14:23.865] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'swiftlint' has no matching download for current os/cpu @ version:0.49.1
+[2024-03-12 15:14:23.867] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'assh' has no matching download for current os/cpu @ version:2.10.0
+[2024-03-12 15:14:23.869] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'air' has no matching download for current os/cpu @ version:1.44.0
+[2024-03-12 15:14:23.872] [global] [info] [service.cc:226] [user-agent=lsp-proxy sid=2] TX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *) status=OK
+[2024-03-12 15:14:23.872] [global] [info] [service.cc:293] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *)
+[2024-03-12 15:14:23.877] [global] [info] [service.cc:293] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *) status=OK
+[2024-03-12 15:14:24.325] [global] [info] [grpc.cc:24] RX:virtual grpc::Status trunk::cli::actions::Service::Enable(grpc::ServerContext *, const proto::v1::EnableRequest *, proto::v1::EnableResponse *)
+[2024-03-12 15:14:24.509] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'adr' has no matching download for current os/cpu @ version:3.0.0
+[2024-03-12 15:14:24.511] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'trunk-toolbox' has no matching download for current os/cpu @ version:0.3.1
+[2024-03-12 15:14:24.515] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'swiftlint' has no matching download for current os/cpu @ version:0.49.1
+[2024-03-12 15:14:24.517] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'assh' has no matching download for current os/cpu @ version:2.10.0
+[2024-03-12 15:14:24.519] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'air' has no matching download for current os/cpu @ version:1.44.0
+[2024-03-12 15:14:24.520] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'tfmigrate' has no matching download for current os/cpu @ version:0.3.14
+[2024-03-12 15:14:24.522] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'include-what-you-use' has no matching download for current os/cpu @ version:0.20
+[2024-03-12 15:14:24.523] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'swiftformat' has no matching download for current os/cpu @ version:0.50.0
+[2024-03-12 15:14:24.524] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'kubectl' has no matching download for current os/cpu @ version:1.25.16
+[2024-03-12 15:14:24.524] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'clang-tidy' has no matching download for current os/cpu @ version:16.0.3
+[2024-03-12 15:14:24.529] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'shellcheck' has no matching download for current os/cpu @ version:0.8.0
+[2024-03-12 15:14:24.530] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'action-validator' has no matching download for current os/cpu @ version:0.5.3
+[2024-03-12 15:14:24.531] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'stringslint' has no matching download for current os/cpu @ version:0.1.1
+[2024-03-12 15:14:24.532] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'clang-format' has no matching download for current os/cpu @ version:14.0.1
+[2024-03-12 15:14:24.533] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'tfnotify' has no matching download for current os/cpu @ version:0.8.0
+[2024-03-12 15:14:24.534] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'istioctl' has no matching download for current os/cpu @ version:1.14.6
+[2024-03-12 15:14:24.536] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'scalafmt' has no matching download for current os/cpu @ version:3.4.3
+[2024-03-12 15:14:24.537] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'direnv' has no matching download for current os/cpu @ version:2.32.3
+[2024-03-12 15:14:24.540] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'act' has no matching download for current os/cpu @ version:0.2.49
+[2024-03-12 15:14:24.541] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'amazon-ecr-credential-helper' has no matching download for current os/cpu @ version:0.7.0
+[2024-03-12 15:14:24.545] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'yarn' has no matching download for current os/cpu @ version:1.22.19
+[2024-03-12 15:14:24.565] [global] [info] [grpc.cc:29] TX:virtual grpc::Status trunk::cli::actions::Service::Enable(grpc::ServerContext *, const proto::v1::EnableRequest *, proto::v1::EnableResponse *) status=OK
+[2024-03-12 15:14:24.570] [global] [info] [grpc.cc:24] RX:virtual grpc::Status trunk::cli::actions::Service::Disable(grpc::ServerContext *, const proto::v1::DisableRequest *, proto::v1::DisableResponse *)
+[2024-03-12 15:14:24.788] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'adr' has no matching download for current os/cpu @ version:3.0.0
+[2024-03-12 15:14:24.792] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'trunk-toolbox' has no matching download for current os/cpu @ version:0.3.1
+[2024-03-12 15:14:24.797] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'swiftlint' has no matching download for current os/cpu @ version:0.49.1
+[2024-03-12 15:14:24.798] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'assh' has no matching download for current os/cpu @ version:2.10.0
+[2024-03-12 15:14:24.800] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'air' has no matching download for current os/cpu @ version:1.44.0
+[2024-03-12 15:14:24.801] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'tfmigrate' has no matching download for current os/cpu @ version:0.3.14
+[2024-03-12 15:14:24.803] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'include-what-you-use' has no matching download for current os/cpu @ version:0.20
+[2024-03-12 15:14:24.804] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'swiftformat' has no matching download for current os/cpu @ version:0.50.0
+[2024-03-12 15:14:24.805] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'kubectl' has no matching download for current os/cpu @ version:1.25.16
+[2024-03-12 15:14:24.805] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'clang-tidy' has no matching download for current os/cpu @ version:16.0.3
+[2024-03-12 15:14:24.811] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'shellcheck' has no matching download for current os/cpu @ version:0.8.0
+[2024-03-12 15:14:24.813] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'action-validator' has no matching download for current os/cpu @ version:0.5.3
+[2024-03-12 15:14:24.814] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'stringslint' has no matching download for current os/cpu @ version:0.1.1
+[2024-03-12 15:14:24.815] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'clang-format' has no matching download for current os/cpu @ version:14.0.1
+[2024-03-12 15:14:24.816] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'tfnotify' has no matching download for current os/cpu @ version:0.8.0
+[2024-03-12 15:14:24.816] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'istioctl' has no matching download for current os/cpu @ version:1.14.6
+[2024-03-12 15:14:24.820] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'scalafmt' has no matching download for current os/cpu @ version:3.4.3
+[2024-03-12 15:14:24.820] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'direnv' has no matching download for current os/cpu @ version:2.32.3
+[2024-03-12 15:14:24.822] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'act' has no matching download for current os/cpu @ version:0.2.49
+[2024-03-12 15:14:24.823] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'amazon-ecr-credential-helper' has no matching download for current os/cpu @ version:0.7.0
+[2024-03-12 15:14:24.832] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'yarn' has no matching download for current os/cpu @ version:1.22.19
+[2024-03-12 15:14:24.842] [global] [info] [grpc.cc:29] TX:virtual grpc::Status trunk::cli::actions::Service::Disable(grpc::ServerContext *, const proto::v1::DisableRequest *, proto::v1::DisableResponse *) status=OK
+[2024-03-12 15:14:25.070] [global] [info] [service.cc:145] [user-agent=cli/on-upgrade sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, proto::v1::StartResponse *)
+[2024-03-12 15:14:25.234] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'include-what-you-use' has no matching download for current os/cpu @ version:0.20
+[2024-03-12 15:14:25.234] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'tfmigrate' has no matching download for current os/cpu @ version:0.3.14
+[2024-03-12 15:14:25.236] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'kubectl' has no matching download for current os/cpu @ version:1.25.16
+[2024-03-12 15:14:25.236] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'swiftformat' has no matching download for current os/cpu @ version:0.50.0
+[2024-03-12 15:14:25.238] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'swiftlint' has no matching download for current os/cpu @ version:0.49.1
+[2024-03-12 15:14:25.240] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'assh' has no matching download for current os/cpu @ version:2.10.0
+[2024-03-12 15:14:25.241] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'air' has no matching download for current os/cpu @ version:1.44.0
+[2024-03-12 15:14:25.243] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'trunk-toolbox' has no matching download for current os/cpu @ version:0.3.1
+[2024-03-12 15:14:25.245] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'adr' has no matching download for current os/cpu @ version:3.0.0
+[2024-03-12 15:14:25.255] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'act' has no matching download for current os/cpu @ version:0.2.49
+[2024-03-12 15:14:25.256] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'amazon-ecr-credential-helper' has no matching download for current os/cpu @ version:0.7.0
+[2024-03-12 15:14:25.258] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'yarn' has no matching download for current os/cpu @ version:1.22.19
+[2024-03-12 15:14:25.261] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'direnv' has no matching download for current os/cpu @ version:2.32.3
+[2024-03-12 15:14:25.261] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'scalafmt' has no matching download for current os/cpu @ version:3.4.3
+[2024-03-12 15:14:25.264] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'clang-format' has no matching download for current os/cpu @ version:14.0.1
+[2024-03-12 15:14:25.265] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'action-validator' has no matching download for current os/cpu @ version:0.5.3
+[2024-03-12 15:14:25.266] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'stringslint' has no matching download for current os/cpu @ version:0.1.1
+[2024-03-12 15:14:25.267] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'tfnotify' has no matching download for current os/cpu @ version:0.8.0
+[2024-03-12 15:14:25.272] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'istioctl' has no matching download for current os/cpu @ version:1.14.6
+[2024-03-12 15:14:25.273] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'clang-tidy' has no matching download for current os/cpu @ version:16.0.3
+[2024-03-12 15:14:25.275] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'shellcheck' has no matching download for current os/cpu @ version:0.8.0
+[2024-03-12 15:14:25.393] [global] [info] [session_context.cc:139] Making commit info with id: 8f25a145be88681bfa9d84e696c595faf200002e
+[2024-03-12 15:14:25.456] [global] [info] [service.cc:213] [user-agent=cli/on-upgrade sid=n/a] lint session created sid=14 with the following options:
+format_only: true
+cache_enabled: true
+force: true
+num_jobs: 2
+session_type: SESSION_TYPE_CLI
+scope: SESSION_SCOPE_ALL
+
+[2024-03-12 15:14:25.456] [global] [info] [service.cc:145] [user-agent=cli/on-upgrade sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, proto::v1::StartResponse *) status=OK
+[2024-03-12 15:14:25.462] [global] [info] [service.cc:360] [user-agent=cli/on-upgrade sid=14] RX:virtual grpc::Status trunk::cli::lint::Service::Queue(grpc::ServerContext *, const proto::v1::QueueRequest *, proto::v1::QueueResponse *)
+[2024-03-12 15:14:25.491] [global] [info] [service.cc:360] [user-agent=cli/on-upgrade sid=14] TX:virtual grpc::Status trunk::cli::lint::Service::Queue(grpc::ServerContext *, const proto::v1::QueueRequest *, proto::v1::QueueResponse *) status=OK
+[2024-03-12 15:14:25.491] [global] [info] [service.cc:458] [user-agent=cli/on-upgrade sid=14] RX:virtual grpc::Status trunk::cli::lint::Service::Lint(grpc::ServerContext *, const proto::v1::LintRequest *, grpc::ServerWriter<proto::v1::LintResponse> *)
+[2024-03-12 15:14:25.529] [global] [info] [runner.cc:102] Writing prettier predecessor error to C:\Users\admin\Desktop\INTERIOR_DESIGN_WEBSITE\.trunk\out\bBJvC.yaml
+[2024-03-12 15:14:25.530] [global] [info] [runner.cc:102] Writing prettier predecessor error to C:\Users\admin\Desktop\INTERIOR_DESIGN_WEBSITE\.trunk\out\Y5yt9.yaml
+[2024-03-12 15:14:25.596] [global] [info] [service.cc:116] Notifications config has not changed
+[2024-03-12 15:14:25.602] [global] [info] [runner.cc:51] Config file changed, rebuilding DAG
+[2024-03-12 15:14:25.612] [global] [info] [service.cc:49] Tools config updated; updating tools
+[2024-03-12 15:14:25.731] [global] [info] [service.cc:458] [user-agent=cli/on-upgrade sid=14] TX:virtual grpc::Status trunk::cli::lint::Service::Lint(grpc::ServerContext *, const proto::v1::LintRequest *, grpc::ServerWriter<proto::v1::LintResponse> *) status=OK
+[2024-03-12 15:14:25.732] [global] [info] [service.cc:537] [user-agent=cli/on-upgrade sid=14] RX:virtual grpc::Status trunk::cli::lint::Service::GetCurrentDiagnostic(grpc::ServerContext *, const proto::v1::GetCurrentDiagnosticRequest *, proto::v1::GetCurrentDiagnosticResponse *)
+[2024-03-12 15:14:25.733] [global] [info] [service.cc:537] [user-agent=cli/on-upgrade sid=14] TX:virtual grpc::Status trunk::cli::lint::Service::GetCurrentDiagnostic(grpc::ServerContext *, const proto::v1::GetCurrentDiagnosticRequest *, proto::v1::GetCurrentDiagnosticResponse *) status=OK
+[2024-03-12 15:14:25.733] [global] [info] [service.cc:537] [user-agent=cli/on-upgrade sid=14] RX:virtual grpc::Status trunk::cli::lint::Service::GetCurrentDiagnostic(grpc::ServerContext *, const proto::v1::GetCurrentDiagnosticRequest *, proto::v1::GetCurrentDiagnosticResponse *)
+[2024-03-12 15:14:25.733] [global] [info] [service.cc:537] [user-agent=cli/on-upgrade sid=14] TX:virtual grpc::Status trunk::cli::lint::Service::GetCurrentDiagnostic(grpc::ServerContext *, const proto::v1::GetCurrentDiagnosticRequest *, proto::v1::GetCurrentDiagnosticResponse *) status=OK
+[2024-03-12 15:14:25.733] [global] [info] [service.cc:224] lint session ended sid=14
+[2024-03-12 15:14:25.733] [global] [info] [service.cc:226] [user-agent=cli/on-upgrade sid=14] RX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *)
+[2024-03-12 15:14:25.735] [global] [info] [service.cc:226] [user-agent=cli/on-upgrade sid=14] TX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *) status=OK
+[2024-03-12 15:14:25.735] [global] [info] [service.cc:293] [user-agent=cli/on-upgrade sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *)
+[2024-03-12 15:14:25.740] [global] [info] [service.cc:293] [user-agent=cli/on-upgrade sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *) status=OK
+[2024-03-12 15:14:26.183] [global] [info] [service.cc:284] [user-agent=cli/on-upgrade sid=14] TrackCheckUsageEvent upload ok: true with code: ok
+[2024-03-12 15:14:33.437] [global] [info] [service.cc:145] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, proto::v1::StartResponse *)
+[2024-03-12 15:14:33.530] [global] [info] [session_context.cc:139] Making commit info with id: 8f25a145be88681bfa9d84e696c595faf200002e

@@ -1,0 +1,86 @@
+version: 0.1
+
+# version used for local trunk runs and testing
+cli:
+  version: 1.20.2-beta.4
+  shell_hooks:
+    enforce: true
+
+api:
+  address: api.trunk-staging.io:8443
+  org: trunk-staging-org
+
+plugins:
+  sources:
+    - id: trunk
+      local: .
+
+    - id: configs
+      uri: https://github.com/trunk-io/configs
+      ref: v1.0.2
+
+lint:
+  # enabled linters inherited from github.com/trunk-io/configs plugin
+  disabled:
+    - pylint # pylint diagnostics are too strict
+    - semgrep
+
+  ignore:
+    - linters: [ALL]
+      paths:
+        - "**/test_data" # required for golangci-lint, which runs on directories
+        - "**/test_data/**"
+
+actions:
+  # Uncomment to enable more verbose action logs
+  # output_level: verbose
+  definitions:
+    - id: repo-tests
+      display_name: Repo Tests
+      description: Run tests on plugin configuration and documentation
+      runtime: node
+      packages_file: package.json
+      run: npm test tests/repo_tests
+      triggers:
+        - git_hooks: [pre-push]
+
+    - id: linter-test-helper
+      display_name: Linter Test Generator
+      description: Generate boilerplate test code when new linters are defined
+      runtime: python
+      packages_file: repo-tools/linter-test-helper/requirements.txt
+      run: python3 repo-tools/linter-test-helper/generate scan ${workspace}
+      triggers:
+        - files: [linters/**]
+
+    - id: tool-test-helper
+      display_name: Tool Test Generator
+      description: Generate boilerplate test code when new tools are defined
+      runtime: python
+      packages_file: repo-tools/tool-test-helper/requirements.txt
+      run: python3 repo-tools/tool-test-helper/generate scan ${workspace}
+      triggers:
+        - files: [tools/**]
+
+    - id: remove-release-snapshots
+      display_name: Remove Release Snapshots
+      description: Remove release tag from snapshots that were added to the release
+      run:
+        grep "// trunk-upgrade-validation:RELEASE" -r --include=*.shot -l | xargs -I {} sed -i -e
+        '/^\/\/ trunk-upgrade-validation:RELEASE/d' {}
+      shell: bash
+
+  enabled:
+    # enabled actions inherited from github.com/trunk-io/configs plugin
+    - linter-test-helper
+    - npm-check-pre-push
+    - remove-release-snapshots
+    - repo-tests
+    - tool-test-helper
+tools:
+  enabled:
+    - clangd-indexing-tools@17.0.3
+    - clangd@17.0.3
+  runtimes:
+    # expose shims in .trunk/tools
+    - node
