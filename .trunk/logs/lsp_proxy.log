@@ -1,0 +1,26 @@
+[03-12 15:09:27] [login.cc:53] GetUserRequest failed with status 16: Invalid token received 
+[03-12 15:14:36] [login.cc:53] GetUserRequest failed with status 16: Invalid token received 
+[03-12 21:18:30] [login.cc:53] GetUserRequest failed with status 16: Invalid token received 
+[03-12 21:24:02] [client.cc:20] GRPC Failed (error code UNAVAILABLE): failed to connect to all addresses; last error: UNAVAILABLE: ipv4:127.0.0.1:50328: WSA Error
+[03-12 21:24:02] [client.cc:20] GRPC Failed (error code UNAVAILABLE): failed to connect to all addresses; last error: UNAVAILABLE: ipv4:127.0.0.1:50328: WSA Error
+[03-12 21:24:20] [login.cc:53] GetUserRequest failed with status 16: Invalid token received 
+[03-18 17:31:58] [login.cc:53] GetUserRequest failed with status 16: Invalid token received 
+[03-22 22:16:51] [login.cc:53] GetUserRequest failed with status 16: Invalid token received 
+[03-22 22:24:05] [login.cc:53] GetUserRequest failed with status 16: Invalid token received 
+[03-22 22:24:10] [client.cc:20] GRPC Failed (error code UNAVAILABLE): failed to connect to all addresses; last error: UNAVAILABLE: ipv4:127.0.0.1:63137: WSA Error
+[03-22 22:24:10] [server.cc:58] Internal exception in the trunk_actions_worker thread: failed to connect to all addresses; last error: UNAVAILABLE: ipv4:127.0.0.1:63137: WSA Error
+[03-22 22:24:10] [client.cc:20] GRPC Failed (error code UNAVAILABLE): failed to connect to all addresses; last error: UNAVAILABLE: ipv4:127.0.0.1:63137: WSA Error
+[03-22 22:24:10] [shared_server_context.hh:129] Message processing failed: failed to connect to all addresses; last error: UNAVAILABLE: ipv4:127.0.0.1:63137: WSA Error
+[03-22 22:24:10] [client.cc:20] GRPC Failed (error code UNAVAILABLE): failed to connect to all addresses; last error: UNAVAILABLE: ipv4:127.0.0.1:63137: WSA Error
+[03-22 22:24:10] [server.cc:58] Internal exception in the file_watcher thread: failed to connect to all addresses; last error: UNAVAILABLE: ipv4:127.0.0.1:63137: WSA Error
+[03-22 22:24:10] [client.cc:20] GRPC Failed (error code UNAVAILABLE): failed to connect to all addresses; last error: UNAVAILABLE: ipv4:127.0.0.1:63137: WSA Error
+[03-22 22:24:10] [shared_server_context.hh:129] Message processing failed: failed to connect to all addresses; last error: UNAVAILABLE: ipv4:127.0.0.1:63137: WSA Error
+[03-22 22:24:10] [submission_buffer.cc:110] diagnostics buffer 0: Submission failed: failed to connect to all addresses; last error: UNAVAILABLE: ipv4:127.0.0.1:63137: WSA Error
+[03-22 22:24:10] [client.cc:20] GRPC Failed (error code UNAVAILABLE): failed to connect to all addresses; last error: UNAVAILABLE: ipv4:127.0.0.1:63137: WSA Error
+[03-22 22:24:10] [shared_server_context.hh:129] Message processing failed: failed to connect to all addresses; last error: UNAVAILABLE: ipv4:127.0.0.1:63137: WSA Error
+[03-22 22:24:10] [submission_buffer.cc:110] diagnostics buffer 1: Submission failed: failed to connect to all addresses; last error: UNAVAILABLE: ipv4:127.0.0.1:63137: WSA Error
+[03-22 22:33:26] [login.cc:53] GetUserRequest failed with status 16: Invalid token received 
+[03-26 21:41:20] [login.cc:53] GetUserRequest failed with status 14: DNS resolution failed for api.trunk.io:8443: C-ares status is not ARES_SUCCESS qtype=A name=api.trunk.io is_balancer=0: Timeout while contacting DNS servers 
+[03-26 22:00:40] [client.cc:20] GRPC Failed (error code INTERNAL): Trunk is not set up in this context. Cannot load config.
+[03-26 22:00:40] [submission_buffer.cc:110] diagnostics buffer 10: Submission failed: Trunk is not set up in this context. Cannot load config.
+[03-26 22:00:40] [shared_server_context.hh:129] Message processing failed: Trunk is not set up in this context. Cannot load config.

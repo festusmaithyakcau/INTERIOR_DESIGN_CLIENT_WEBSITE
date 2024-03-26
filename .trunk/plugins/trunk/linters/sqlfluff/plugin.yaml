@@ -1,0 +1,36 @@
+version: 0.1
+tools:
+  definitions:
+    - name: sqlfluff
+      runtime: python
+      package: sqlfluff
+      shims: [sqlfluff]
+      known_good_version: 1.4.5
+lint:
+  definitions:
+    - name: sqlfluff
+      files: [sql, sql-j2, dml, ddl]
+      tools: [sqlfluff]
+      known_good_version: 1.4.5
+      direct_configs:
+        - .sqlfluff
+      affects_cache:
+        - pyproject.toml
+      suggest_if: config_present
+      commands:
+        - name: lint
+          run: sqlfluff lint ${target} --format json --nofail
+          output: sarif
+          success_codes: [0]
+          read_output_from: stdout
+          parser:
+            runtime: python
+            run: python3 ${plugin}/linters/sqlfluff/sqlfluff_to_sarif.py
+        - name: fix
+          run: sqlfluff fix ${target} --disable-progress-bar --force
+          output: rewrite
+          formatter: true
+          in_place: true
+          success_codes: [0]
+          enabled: false
+          batch: true

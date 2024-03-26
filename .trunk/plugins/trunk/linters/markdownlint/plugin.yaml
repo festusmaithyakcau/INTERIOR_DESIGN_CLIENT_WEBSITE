@@ -1,0 +1,35 @@
+version: 0.1
+tools:
+  definitions:
+    - name: markdownlint
+      runtime: node
+      package: markdownlint-cli
+      shims: [markdownlint]
+      known_good_version: 0.33.0
+lint:
+  definitions:
+    - name: markdownlint
+      files: [markdown]
+      tools: [markdownlint]
+      commands:
+        - name: lint
+          # Custom parser type defined in the trunk cli to handle markdownlint's JSON output.
+          output: markdownlint
+          run: markdownlint ${target} --json
+          success_codes: [0, 1]
+          batch: true
+          cache_results: true
+      suggest_if: files_present
+      direct_configs:
+        - .markdownlint.json
+        - .markdownlint.yaml
+        - .markdownlint.yml
+        - .markdownlintrc
+        - .markdownlint-cli2.json
+        - .markdownlint-cli2.yaml
+        - .markdownlint-cli2.jsonc
+      issue_url_format: https://github.com/DavidAnson/markdownlint/blob/main/doc/Rules.md#{}
+      known_good_version: 0.33.0
+      version_command:
+        parse_regex: ${semver}
+        run: markdownlint --version

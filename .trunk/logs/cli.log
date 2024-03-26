@@ -1,0 +1,27 @@
+[03-12 16:09:53] [upgrade.cc:226] Error during upgrade --notify: cli: 1 linter: 0 plugin: 0 runtime: 0
+[03-12 16:15:41] [login.cc:53] GetUserRequest failed with status 14: DNS resolution failed for api.trunk.io:8443: C-ares status is not ARES_SUCCESS qtype=A name=api.trunk.io is_balancer=0: Timeout while contacting DNS servers 
+[03-12 16:15:49] [upgrade.cc:226] Error during upgrade --notify: cli: 1 linter: 0 plugin: 0 runtime: 0
+[03-12 21:23:54] [client.cc:20] GRPC Failed (error code UNAVAILABLE): failed to connect to all addresses; last error: UNAVAILABLE: ipv4:127.0.0.1:50328: WSA Error
+[03-12 21:23:54] [sentry.cc:372] Trunk Internal Error
+---
+trunk_cli_version: 1.20.1
+title: Internal trunk error occurred. Please report this issue to us @ https://slack.trunk.io
+report:
+  - "failed to connect to all addresses; last error: UNAVAILABLE: ipv4:127.0.0.1:50328: WSA Error"
+[03-12 22:24:14] [login.cc:53] GetUserRequest failed with status 16: Invalid token received 
+[03-12 22:27:12] [upgrade.cc:226] Error during upgrade --notify: cli: 1 linter: 0 plugin: 0 runtime: 0
+[03-18 17:37:23] [client.cc:20] GRPC Failed (error code UNAVAILABLE): failed to connect to all addresses; last error: UNAVAILABLE: ipv4:127.0.0.1:49316: WSA Error
+[03-18 17:37:23] [sentry.cc:372] Trunk Internal Error
+---
+trunk_cli_version: 1.20.1
+title: Internal trunk error occurred. Please report this issue to us @ https://slack.trunk.io
+report:
+  - "failed to connect to all addresses; last error: UNAVAILABLE: ipv4:127.0.0.1:49316: WSA Error"
+[03-22 22:24:09] [client.cc:20] GRPC Failed (error code UNAVAILABLE): failed to connect to all addresses; last error: UNAVAILABLE: ipv4:127.0.0.1:63137: WSA Error
+[03-22 22:24:09] [sentry.cc:372] Trunk Internal Error
+---
+trunk_cli_version: 1.20.1
+title: Internal trunk error occurred. Please report this issue to us @ https://slack.trunk.io
+report:
+  - "failed to connect to all addresses; last error: UNAVAILABLE: ipv4:127.0.0.1:63137: WSA Error"
+[03-26 21:43:01] [upgrade.cc:226] Error during upgrade --notify: cli: 1 linter: 0 plugin: 0 runtime: 0

@@ -1,0 +1,4 @@
+trunk_cli_version: 1.20.1
+title: Exception occurred while installing prettier
+report:
+  - "Unknown token 'env.PATH' in ${env.PATH}\n"

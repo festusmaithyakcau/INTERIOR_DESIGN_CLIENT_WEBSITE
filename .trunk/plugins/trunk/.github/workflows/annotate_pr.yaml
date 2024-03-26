@@ -1,0 +1,25 @@
+name: Annotate fork-PRs with Trunk Check issues
+on:
+  workflow_run:
+    workflows: [Pull Request]
+    types: [completed]
+
+permissions: read-all
+
+jobs:
+  trunk_check:
+    name: Trunk Check Annotate
+    runs-on: ubuntu-latest
+    permissions:
+      checks: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4.1.1
+
+      - name: Trunk Check
+        uses: trunk-io/trunk-action@65228585e2c6128315f0f2d5190e2eae7f5c32c6 # v1.1.10
+        with:
+          post-annotations: true
+        # This job may fail when the PR was not run on a fork, and that's okay
+        continue-on-error: true
