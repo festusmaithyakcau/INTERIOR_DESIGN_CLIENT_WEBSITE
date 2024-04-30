@@ -6,10 +6,13 @@
 [![Deploy static content to Pages](https://github.com/festusmaithyakcau/INTERIOR_DESIGN_CLIENT_WEBSITE/actions/workflows/static.yml/badge.svg)](https://github.com/festusmaithyakcau/INTERIOR_DESIGN_CLIENT_WEBSITE/actions/workflows/static.yml)
 
 
-## Authors
+## Authors of the website
 
 * Festus Maithya [festusmaithyakcau](https://github.com/festusmaithyakcau)
 * Alpha Jim  [Alpha Jim Obiero](https://github.com/AlphaJim)
 
 ## Acknowledgements :pray:
+__________________________
+__________________________
+__________________________
 
