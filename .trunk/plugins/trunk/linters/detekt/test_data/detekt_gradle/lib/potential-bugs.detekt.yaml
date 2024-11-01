@@ -1,4 +1,0 @@
-potential-bugs:
-  active: true
-  EqualsWithHashCodeExist:
-    active: true
