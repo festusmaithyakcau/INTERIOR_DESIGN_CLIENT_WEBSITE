@@ -1,7 +1,0 @@
-[
-  {
-    "command": "clang -c test.cc",
-    "file": "test.cc",
-    "directory": "${EXECUTION_ROOT}"
-  }
-]
